@@ -12,5 +12,7 @@ public class Solution {
         System.out.println("числа равны");
         //напишите тут ваш код
         System.out.println("числа не равны");
+
+        //new testing
     }
 }
