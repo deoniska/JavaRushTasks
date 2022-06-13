@@ -14,5 +14,7 @@ public class Solution {
         System.out.println("числа не равны");
 
         //new testing
+
+        // new testing bruch
     }
 }
