@@ -2,10 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="8a9c2848-0864-419d-ba1c-a0669c6ee00f" name="Default" comment="Merged in JRT-3-compare-string (pull request #11)&#10;&#10;JRT-3-compare-string">
-      <change afterPath="$PROJECT_DIR$/1.JavaSyntax/src/com/javarush/task/pro/task09/task0918/Solution.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/1.JavaSyntax/src/com/javarush/task/pro/task09/task0918/Условие.jrtc" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/1.JavaSyntax/src/com/javarush/task/pro/task09/task0919/Solution.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/1.JavaSyntax/src/com/javarush/task/pro/task09/task0919/Условие.jrtc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/1.JavaSyntax/src/com/javarush/task/pro/task10/task1004/CarConcern.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/1.JavaSyntax/src/com/javarush/task/pro/task10/task1004/Условие.jrtc" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/JavaRushPlugin.properties" beforeDir="false" afterPath="$PROJECT_DIR$/JavaRushPlugin.properties" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/out.log" beforeDir="false" afterPath="$PROJECT_DIR$/out.log" afterDir="false" />
