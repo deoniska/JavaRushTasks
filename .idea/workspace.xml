@@ -1,12 +1,20 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="8a9c2848-0864-419d-ba1c-a0669c6ee00f" name="Default" comment="Merged in JRT-3-compare-string (pull request #11)&#10;&#10;JRT-3-compare-string">
-      <change afterPath="$PROJECT_DIR$/1.JavaSyntax/src/com/javarush/task/pro/task10/task1004/CarConcern.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/1.JavaSyntax/src/com/javarush/task/pro/task10/task1004/Условие.jrtc" afterDir="false" />
+    <list default="true" id="8a9c2848-0864-419d-ba1c-a0669c6ee00f" name="Default" comment="&#10;&#10;JRT-8">
+      <change afterPath="$PROJECT_DIR$/1.JavaSyntax/src/com/javarush/task/pro/task10/task1005/Building.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/1.JavaSyntax/src/com/javarush/task/pro/task10/task1005/Условие.jrtc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/1.JavaSyntax/src/com/javarush/task/pro/task10/task1006/Car.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/1.JavaSyntax/src/com/javarush/task/pro/task10/task1006/ElectricCar.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/1.JavaSyntax/src/com/javarush/task/pro/task10/task1006/GasCar.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/1.JavaSyntax/src/com/javarush/task/pro/task10/task1006/HybridCar.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/1.JavaSyntax/src/com/javarush/task/pro/task10/task1006/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/1.JavaSyntax/src/com/javarush/task/pro/task10/task1006/Условие.jrtc" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/JavaRushPlugin.properties" beforeDir="false" afterPath="$PROJECT_DIR$/JavaRushPlugin.properties" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/out.log" beforeDir="false" afterPath="$PROJECT_DIR$/out.log" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/1.JavaSyntax/com/javarush/task/pro/task10/task1003/Skyscraper.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/1.JavaSyntax/com/javarush/task/pro/task10/task1003/Условие.jrtc" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -142,7 +150,7 @@
       <recent name="D:\intellijSandbox\JavaRushTasks" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.com.javarush.task.pro.task09.task0919.Solution">
+  <component name="RunManager" selected="Application.Solution">
     <configuration default="true" type="AndroidTestRunConfigurationType" factoryName="Android Tests">
       <module name="" />
       <option name="TESTING_TYPE" value="0" />
@@ -305,35 +313,35 @@
     <configuration default="true" type="osgi.bnd.run" factoryName="Test Launcher (JUnit)">
       <method />
     </configuration>
+    <configuration name="Building" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.javarush.task.pro.task10.task1005.Building" />
+      <module name="1.JavaSyntax" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.javarush.task.pro.task10.task1005.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Solution" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.javarush.task.pro.task10.task1006.Solution" />
+      <module name="1.JavaSyntax" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.javarush.task.pro.task10.task1006.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="Unnamed" type="Application" factoryName="Application" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.javarush.task.pro.task02.task0215.Solution" />
       <module name="1.JavaSyntax" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="com.javarush.task.pro.task09.task0915.Solution" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.javarush.task.pro.task09.task0915.Solution" />
-      <module name="1.JavaSyntax" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.javarush.task.pro.task09.task0915.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="com.javarush.task.pro.task09.task0916.Solution" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.javarush.task.pro.task09.task0916.Solution" />
-      <module name="1.JavaSyntax" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.javarush.task.pro.task09.task0916.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -424,19 +432,19 @@
     </configuration>
     <list>
       <item itemvalue="Application.Unnamed" />
-      <item itemvalue="Application.com.javarush.task.pro.task09.task0916.Solution" />
+      <item itemvalue="Application.Solution" />
+      <item itemvalue="Application.Building" />
       <item itemvalue="Application.com.javarush.task.pro.task09.task0917.Solution" />
       <item itemvalue="Application.com.javarush.task.pro.task09.task0918.Solution" />
       <item itemvalue="Application.com.javarush.task.pro.task09.task0919.Solution" />
-      <item itemvalue="Application.com.javarush.task.pro.task09.task0915.Solution" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Solution" />
+        <item itemvalue="Application.Building" />
         <item itemvalue="Application.com.javarush.task.pro.task09.task0919.Solution" />
         <item itemvalue="Application.com.javarush.task.pro.task09.task0918.Solution" />
         <item itemvalue="Application.com.javarush.task.pro.task09.task0917.Solution" />
-        <item itemvalue="Application.com.javarush.task.pro.task09.task0916.Solution" />
-        <item itemvalue="Application.com.javarush.task.pro.task09.task0915.Solution" />
       </list>
     </recent_temporary>
   </component>
@@ -478,6 +486,7 @@
       <workItem from="1659891098067" duration="3166000" />
       <workItem from="1660070998912" duration="2856000" />
       <workItem from="1660241781150" duration="3537000" />
+      <workItem from="1660671025369" duration="1031000" />
     </task>
     <task id="LOCAL-00001" summary="First commit">
       <created>1655133153255</created>
@@ -584,7 +593,14 @@
       <option name="project" value="LOCAL" />
       <updated>1660331035516</updated>
     </task>
-    <option name="localTasksCounter" value="16" />
+    <task id="LOCAL-00016" summary="&#10;&#10;JRT-8">
+      <created>1660506906732</created>
+      <option name="number" value="00016" />
+      <option name="presentableId" value="LOCAL-00016" />
+      <option name="project" value="LOCAL" />
+      <updated>1660506906732</updated>
+    </task>
+    <option name="localTasksCounter" value="17" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
@@ -680,7 +696,8 @@
     <MESSAGE value="JRT-3-compare-string" />
     <MESSAGE value="JRT-4" />
     <MESSAGE value="Merged in JRT-3-compare-string (pull request #11)&#10;&#10;JRT-3-compare-string" />
-    <option name="LAST_COMMIT_MESSAGE" value="Merged in JRT-3-compare-string (pull request #11)&#10;&#10;JRT-3-compare-string" />
+    <MESSAGE value="&#10;&#10;JRT-8" />
+    <option name="LAST_COMMIT_MESSAGE" value="&#10;&#10;JRT-8" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
