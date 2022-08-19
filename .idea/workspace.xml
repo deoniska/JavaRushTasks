@@ -1,11 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="8a9c2848-0864-419d-ba1c-a0669c6ee00f" name="Default" comment="JRT-8-new2">
-      <change afterPath="$PROJECT_DIR$/1.JavaSyntax/src/com/javarush/task/pro/task10/task1007/Bugatti.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/1.JavaSyntax/src/com/javarush/task/pro/task10/task1007/Условие.jrtc" afterDir="false" />
+    <list default="true" id="8a9c2848-0864-419d-ba1c-a0669c6ee00f" name="Default" comment="JRT-9">
+      <change afterPath="$PROJECT_DIR$/1.JavaSyntax/src/com/javarush/task/pro/task10/task1008/Programmer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/1.JavaSyntax/src/com/javarush/task/pro/task10/task1008/Условие.jrtc" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/JavaRushPlugin.properties" beforeDir="false" afterPath="$PROJECT_DIR$/JavaRushPlugin.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out.log" beforeDir="false" afterPath="$PROJECT_DIR$/out.log" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -114,16 +116,11 @@
     <option name="showLibraryContents" value="true" />
     <option name="showVisibilityIcons" value="true" />
   </component>
-  <component name="PropertiesComponent">
-    <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="aspect.path.notification.shown" value="true" />
-    <property name="js-jscs-nodeInterpreter" value="C:\Program Files\nodejs\node.exe" />
-    <property name="js.eslint.eslintPackage" value="" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
-    <property name="nodejs_interpreter_path" value="node" />
-    <property name="nodejs_package_manager_path" value="npm" />
-    <property name="settings.editor.selected.configurable" value="reference.settingsdialog.IDE.editor.colors.Language Defaults" />
-  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "WebServerToolWindowFactoryState": "false"
+  }
+}]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
       <recent name="D:\intellijSandbox\JavaRushTasks" />
@@ -461,6 +458,7 @@
       <workItem from="1655409452995" duration="1024000" />
       <workItem from="1655496642630" duration="5871000" />
       <workItem from="1655837649339" duration="2282000" />
+      <workItem from="1660851950579" duration="496000" />
     </task>
     <task id="LOCAL-00001" summary="First commit">
       <created>1655133153255</created>
@@ -504,7 +502,14 @@
       <option name="project" value="LOCAL" />
       <updated>1660768046994</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="JRT-9">
+      <created>1660768258863</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1660768258863</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
@@ -588,7 +593,8 @@
     <MESSAGE value="commit task1" />
     <MESSAGE value="test" />
     <MESSAGE value="JRT-8-new2" />
-    <option name="LAST_COMMIT_MESSAGE" value="JRT-8-new2" />
+    <MESSAGE value="JRT-9" />
+    <option name="LAST_COMMIT_MESSAGE" value="JRT-9" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
