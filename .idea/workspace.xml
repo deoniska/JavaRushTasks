@@ -1,7 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="8a9c2848-0864-419d-ba1c-a0669c6ee00f" name="Default" comment="&#10;&#10;JRT-8" />
+    <list default="true" id="8a9c2848-0864-419d-ba1c-a0669c6ee00f" name="Default" comment="JRT-9">
+      <change afterPath="$PROJECT_DIR$/1.JavaSyntax/src/com/javarush/task/pro/task10/task1009/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/1.JavaSyntax/src/com/javarush/task/pro/task10/task1009/Условие.jrtc" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/JavaRushPlugin.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out.log" beforeDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -13,33 +19,19 @@
   <component name="CreatePatchCommitExecutor">
     <option name="PATCH_PATH" value="" />
   </component>
-  <component name="FileTemplateManagerImpl">
-    <option name="RECENT_TEMPLATES">
-      <list>
-        <option value="Class" />
-      </list>
-    </option>
-  </component>
   <component name="FindInProjectRecents">
     <findStrings>
       <find>internship</find>
     </findStrings>
   </component>
   <component name="Git.Settings">
-    <option name="PREVIOUS_COMMIT_AUTHORS">
-      <list>
-        <option value="Денис Рященко &lt;deoniska@me.com&gt;" />
-        <option value="Denis Rjashenko &lt;deoniska@me.com&gt;" />
-      </list>
-    </option>
     <option name="RECENT_BRANCH_BY_REPOSITORY">
       <map>
-        <entry key="$PROJECT_DIR$" value="JRT-4" />
+        <entry key="$PROJECT_DIR$" value="JRT-9-get-and-set" />
       </map>
     </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
     <option name="ROOT_SYNC" value="DONT_SYNC" />
-    <option name="UPDATE_TYPE" value="REBASE" />
   </component>
   <component name="GradleLocalSettings">
     <option name="modificationStamps">
@@ -125,11 +117,7 @@
   </component>
   <component name="PropertiesComponent">{
   &quot;keyToString&quot;: {
-    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
-    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
-    &quot;project.structure.last.edited&quot;: &quot;Modules&quot;,
-    &quot;project.structure.proportion&quot;: &quot;0.0&quot;,
-    &quot;project.structure.side.proportion&quot;: &quot;0.2&quot;
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;
   }
 }</component>
   <component name="RecentsManager">
@@ -137,7 +125,7 @@
       <recent name="D:\intellijSandbox\JavaRushTasks" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.Solution">
+  <component name="RunManager" selected="Application.com.javarush.task.pro.task10.task1009.Solution">
     <configuration default="true" type="AndroidTestRunConfigurationType" factoryName="Android Tests">
       <module name="" />
       <option name="TESTING_TYPE" value="0" />
@@ -300,12 +288,12 @@
     <configuration default="true" type="osgi.bnd.run" factoryName="Test Launcher (JUnit)">
       <method />
     </configuration>
-    <configuration name="Building" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.javarush.task.pro.task10.task1005.Building" />
+    <configuration name="Solution (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.javarush.task.pro.task04.task0407.Solution" />
       <module name="1.JavaSyntax" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.javarush.task.pro.task10.task1005.*" />
+          <option name="PATTERN" value="com.javarush.task.pro.task04.task0407.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -313,12 +301,38 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Solution" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.javarush.task.pro.task10.task1006.Solution" />
+    <configuration name="Solution (2)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.javarush.task.pro.task04.task0409.Solution" />
       <module name="1.JavaSyntax" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.javarush.task.pro.task10.task1006.*" />
+          <option name="PATTERN" value="com.javarush.task.pro.task04.task0409.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Solution (3)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.javarush.task.pro.task04.task0408.Solution" />
+      <module name="1.JavaSyntax" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.javarush.task.pro.task04.task0408.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Solution (4)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.javarush.task.pro.task04.task0410.Solution" />
+      <module name="1.JavaSyntax" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.javarush.task.pro.task04.task0410.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -333,38 +347,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="com.javarush.task.pro.task09.task0917.Solution" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.javarush.task.pro.task09.task0917.Solution" />
+    <configuration name="com.javarush.task.pro.task10.task1009.Solution" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.javarush.task.pro.task10.task1009.Solution" />
       <module name="1.JavaSyntax" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.javarush.task.pro.task09.task0917.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="com.javarush.task.pro.task09.task0918.Solution" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.javarush.task.pro.task09.task0918.Solution" />
-      <module name="1.JavaSyntax" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.javarush.task.pro.task09.task0918.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="com.javarush.task.pro.task09.task0919.Solution" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.javarush.task.pro.task09.task0919.Solution" />
-      <module name="1.JavaSyntax" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.javarush.task.pro.task09.task0919.*" />
+          <option name="PATTERN" value="com.javarush.task.pro.task10.task1009.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -419,19 +407,19 @@
     </configuration>
     <list>
       <item itemvalue="Application.Unnamed" />
-      <item itemvalue="Application.Solution" />
-      <item itemvalue="Application.Building" />
-      <item itemvalue="Application.com.javarush.task.pro.task09.task0917.Solution" />
-      <item itemvalue="Application.com.javarush.task.pro.task09.task0918.Solution" />
-      <item itemvalue="Application.com.javarush.task.pro.task09.task0919.Solution" />
+      <item itemvalue="Application.com.javarush.task.pro.task10.task1009.Solution" />
+      <item itemvalue="Application.Solution (1)" />
+      <item itemvalue="Application.Solution (2)" />
+      <item itemvalue="Application.Solution (3)" />
+      <item itemvalue="Application.Solution (4)" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Solution" />
-        <item itemvalue="Application.Building" />
-        <item itemvalue="Application.com.javarush.task.pro.task09.task0919.Solution" />
-        <item itemvalue="Application.com.javarush.task.pro.task09.task0918.Solution" />
-        <item itemvalue="Application.com.javarush.task.pro.task09.task0917.Solution" />
+        <item itemvalue="Application.com.javarush.task.pro.task10.task1009.Solution" />
+        <item itemvalue="Application.Solution (4)" />
+        <item itemvalue="Application.Solution (3)" />
+        <item itemvalue="Application.Solution (2)" />
+        <item itemvalue="Application.Solution (1)" />
       </list>
     </recent_temporary>
   </component>
@@ -469,11 +457,7 @@
       <workItem from="1655409452995" duration="1024000" />
       <workItem from="1655496642630" duration="5871000" />
       <workItem from="1655837649339" duration="2282000" />
-      <workItem from="1659635387797" duration="12018000" />
-      <workItem from="1659891098067" duration="3166000" />
-      <workItem from="1660070998912" duration="2856000" />
-      <workItem from="1660241781150" duration="3537000" />
-      <workItem from="1660671025369" duration="1352000" />
+      <workItem from="1660851950579" duration="496000" />
     </task>
     <task id="LOCAL-00001" summary="First commit">
       <created>1655133153255</created>
@@ -510,98 +494,21 @@
       <option name="project" value="LOCAL" />
       <updated>1655839776512</updated>
     </task>
-    <task id="LOCAL-00006" summary="commit monday">
-      <created>1659612230622</created>
+    <task id="LOCAL-00006" summary="JRT-8-new2">
+      <created>1660768046994</created>
       <option name="number" value="00006" />
       <option name="presentableId" value="LOCAL-00006" />
       <option name="project" value="LOCAL" />
-      <updated>1659612230622</updated>
+      <updated>1660768046994</updated>
     </task>
-    <task id="LOCAL-00007" summary="commit monday">
-      <created>1659612354872</created>
+    <task id="LOCAL-00007" summary="JRT-9">
+      <created>1660768258863</created>
       <option name="number" value="00007" />
       <option name="presentableId" value="LOCAL-00007" />
       <option name="project" value="LOCAL" />
-      <updated>1659612354872</updated>
+      <updated>1660768258863</updated>
     </task>
-    <task id="LOCAL-00008" summary="commit monday">
-      <created>1659612453317</created>
-      <option name="number" value="00008" />
-      <option name="presentableId" value="LOCAL-00008" />
-      <option name="project" value="LOCAL" />
-      <updated>1659612453317</updated>
-    </task>
-    <task id="LOCAL-00009" summary="task conventor hex">
-      <created>1659760811123</created>
-      <option name="number" value="00009" />
-      <option name="presentableId" value="LOCAL-00009" />
-      <option name="project" value="LOCAL" />
-      <updated>1659760811123</updated>
-    </task>
-    <task id="LOCAL-00010" summary="task conventor hex">
-      <created>1659764423972</created>
-      <option name="number" value="00010" />
-      <option name="presentableId" value="LOCAL-00010" />
-      <option name="project" value="LOCAL" />
-      <updated>1659764423972</updated>
-    </task>
-    <task id="LOCAL-00011" summary="task conventor hex">
-      <created>1659765011792</created>
-      <option name="number" value="00011" />
-      <option name="presentableId" value="LOCAL-00011" />
-      <option name="project" value="LOCAL" />
-      <updated>1659765011792</updated>
-    </task>
-    <task id="LOCAL-00012" summary="JRT-3-compare-string">
-      <created>1660071646864</created>
-      <option name="number" value="00012" />
-      <option name="presentableId" value="LOCAL-00012" />
-      <option name="project" value="LOCAL" />
-      <updated>1660071646864</updated>
-    </task>
-    <task id="LOCAL-00013" summary="Merged in JRT-3-compare-string (pull request #11)&#10;&#10;JRT-3-compare-string">
-      <created>1660330990887</created>
-      <option name="number" value="00013" />
-      <option name="presentableId" value="LOCAL-00013" />
-      <option name="project" value="LOCAL" />
-      <updated>1660330990887</updated>
-    </task>
-    <task id="LOCAL-00014" summary="Merged in JRT-3-compare-string (pull request #11)&#10;&#10;JRT-3-compare-string">
-      <created>1660331022270</created>
-      <option name="number" value="00014" />
-      <option name="presentableId" value="LOCAL-00014" />
-      <option name="project" value="LOCAL" />
-      <updated>1660331022270</updated>
-    </task>
-    <task id="LOCAL-00015" summary="Merged in JRT-3-compare-string (pull request #11)&#10;&#10;JRT-3-compare-string">
-      <created>1660331035516</created>
-      <option name="number" value="00015" />
-      <option name="presentableId" value="LOCAL-00015" />
-      <option name="project" value="LOCAL" />
-      <updated>1660331035516</updated>
-    </task>
-    <task id="LOCAL-00016" summary="&#10;&#10;JRT-8">
-      <created>1660506906732</created>
-      <option name="number" value="00016" />
-      <option name="presentableId" value="LOCAL-00016" />
-      <option name="project" value="LOCAL" />
-      <updated>1660506906732</updated>
-    </task>
-    <task id="LOCAL-00017" summary="&#10;&#10;JRT-8">
-      <created>1660766976490</created>
-      <option name="number" value="00017" />
-      <option name="presentableId" value="LOCAL-00017" />
-      <option name="project" value="LOCAL" />
-      <updated>1660766976490</updated>
-    </task>
-    <task id="LOCAL-00018" summary="&#10;&#10;JRT-8">
-      <created>1660767139462</created>
-      <option name="number" value="00018" />
-      <option name="presentableId" value="LOCAL-00018" />
-      <option name="project" value="LOCAL" />
-      <updated>1660767139462</updated>
-    </task>
-    <option name="localTasksCounter" value="19" />
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
@@ -644,26 +551,18 @@
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
   </component>
-  <component name="UnknownFeatures">
-    <option featureType="com.intellij.fileTypeFactory" implementationName="*.log" />
-  </component>
   <component name="Vcs.Log.Tabs.Properties">
     <option name="TAB_STATES">
       <map>
         <entry key="MAIN">
           <value>
             <State>
-              <option name="CUSTOM_BOOLEAN_PROPERTIES">
-                <map>
-                  <entry key="Show.Git.Branches" value="true" />
-                </map>
-              </option>
               <option name="FILTERS">
                 <map>
                   <entry key="branch">
                     <value>
                       <list>
-                        <option value="JRT-1-test-ticket" />
+                        <option value="testBrunch" />
                       </list>
                     </value>
                   </entry>
@@ -691,14 +590,10 @@
     <MESSAGE value="test commit" />
     <MESSAGE value="commit test bruch" />
     <MESSAGE value="commit task1" />
-    <MESSAGE value="сщььше ьукпу" />
-    <MESSAGE value="commit monday" />
-    <MESSAGE value="JRT-1-test-ticket" />
-    <MESSAGE value="JRT-3-compare-string" />
-    <MESSAGE value="JRT-4" />
-    <MESSAGE value="Merged in JRT-3-compare-string (pull request #11)&#10;&#10;JRT-3-compare-string" />
-    <MESSAGE value="&#10;&#10;JRT-8" />
-    <option name="LAST_COMMIT_MESSAGE" value="&#10;&#10;JRT-8" />
+    <MESSAGE value="test" />
+    <MESSAGE value="JRT-8-new2" />
+    <MESSAGE value="JRT-9" />
+    <option name="LAST_COMMIT_MESSAGE" value="JRT-9" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
