@@ -12,7 +12,7 @@ public class Solution {
     }
 
     public static class Work {
-        public void workHard() {
+        public void workHard()  {
 
         }
     }
