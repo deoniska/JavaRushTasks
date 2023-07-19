@@ -2,8 +2,8 @@
 ## Idea
 #############
 target/
-.idea/
-.idea
+
+
 .repository/
 ##*.iml
 ##*.iws
@@ -11,7 +11,7 @@ target/
 ##*.java
 ##*.class
 ##*.info
-*.properties
+
 ##*.jar
 
 
@@ -25,7 +25,8 @@ target/
 
 ##/out/
 
-/JavaRushPlugin.properties
+
 ##/Instruction.png
 /out.log
 /out.log.*
+
