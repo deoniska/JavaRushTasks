@@ -19,7 +19,7 @@ public class Solution {
 
         @Override
         public void onSelect() {
-            System.out.println("test2");
+            System.out.println("test3");
         }
 
         @Override
