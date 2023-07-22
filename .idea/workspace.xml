@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="8a9c2848-0864-419d-ba1c-a0669c6ee00f" name="Default" comment="evening commit">
+    <list default="true" id="8a9c2848-0864-419d-ba1c-a0669c6ee00f" name="Default" comment="Commit for test2">
       <change beforePath="$PROJECT_DIR$/2.JavaCore/src/com/javarush/task/task13/task1304/Solution.java" beforeDir="false" afterPath="$PROJECT_DIR$/2.JavaCore/src/com/javarush/task/task13/task1304/Solution.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -526,7 +526,7 @@
       <workItem from="1689453880902" duration="2954000" />
       <workItem from="1689740542719" duration="357000" />
       <workItem from="1689740914143" duration="147000" />
-      <workItem from="1689741104898" duration="8270000" />
+      <workItem from="1689741104898" duration="8734000" />
     </task>
     <task id="LOCAL-00001" summary="First commit">
       <created>1655133153255</created>
@@ -654,7 +654,28 @@
       <option name="project" value="LOCAL" />
       <updated>1689966781418</updated>
     </task>
-    <option name="localTasksCounter" value="19" />
+    <task id="LOCAL-00019" summary="Commit for test">
+      <created>1689997982289</created>
+      <option name="number" value="00019" />
+      <option name="presentableId" value="LOCAL-00019" />
+      <option name="project" value="LOCAL" />
+      <updated>1689997982290</updated>
+    </task>
+    <task id="LOCAL-00020" summary="Commit for test">
+      <created>1689998078534</created>
+      <option name="number" value="00020" />
+      <option name="presentableId" value="LOCAL-00020" />
+      <option name="project" value="LOCAL" />
+      <updated>1689998078534</updated>
+    </task>
+    <task id="LOCAL-00021" summary="Commit for test2">
+      <created>1689998122727</created>
+      <option name="number" value="00021" />
+      <option name="presentableId" value="LOCAL-00021" />
+      <option name="project" value="LOCAL" />
+      <updated>1689998122727</updated>
+    </task>
+    <option name="localTasksCounter" value="22" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
@@ -749,7 +770,9 @@
     <MESSAGE value="new commit" />
     <MESSAGE value="morning commit" />
     <MESSAGE value="evening commit" />
-    <option name="LAST_COMMIT_MESSAGE" value="evening commit" />
+    <MESSAGE value="Commit for test" />
+    <MESSAGE value="Commit for test2" />
+    <option name="LAST_COMMIT_MESSAGE" value="Commit for test2" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
